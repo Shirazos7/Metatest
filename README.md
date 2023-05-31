@@ -1,2 +1,3 @@
 # Metatest
-just as test 
+just as test  
+echo"Hello World"; 
